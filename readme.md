@@ -1,2 +1,3 @@
 #This is a test for second lesson.
-#Editted from Github
+#Edited from Github
+#Second editing
